@@ -1,2 +1,3 @@
-# HtmlStaticWebTemplate
-This repository contains a static HTML web page showcasing basic HTML structure, CSS styling, and layout design
+https://strong-mandazi-9ca051.netlify.app
+
+![webTemplate](https://github.com/user-attachments/assets/84ca3c88-be81-40de-933d-6d6fcbe054c1)
